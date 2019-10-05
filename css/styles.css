@@ -1,0 +1,85 @@
+body{
+  background-color: #eeeeee;
+  margin: 0;
+  text-align: center;
+  font-family: serif;
+}
+
+h1{
+  margin: 0 auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.625em;
+}
+
+h2{
+  margin: 0 auto 0 auto;
+  font-family: 'EB Garamond', serif;
+}
+
+h3{
+  margin: 0 auto 0 auto;
+  font-family: 'Domine', serif;
+}
+
+
+.top-container{
+  background-color: #d9eeec;
+}
+
+.middle-container{
+  background-color: #e6f8f9;
+}
+
+.bottom-container{
+  background-color: #ecf4f3;
+}
+
+.Penjelasan{
+  text-decoration: underline;
+}
+
+.mountain{
+  width:55%;
+}
+
+.cloud0{
+  position: relative;
+  left: 100px;
+  margin-top: 50px;
+}
+
+.cloud1{
+  position: absolute;
+}
+
+.cloud2{
+  position: absolute;
+}
+
+.ferdyan {
+  border-radius: 100%;
+}
+
+.its{
+  margin-top: 40px;
+}
+
+.len{
+  margin-top: 40px;
+}
+
+.electra{
+  margin-top: 40px;
+}
+
+.b402{
+  margin-top: 40px;
+  position: relative;
+  left: 180px;
+}
+
+.travier{
+  margin-top: 40px;
+  width:25%;
+  height: 50%;
+}

@@ -6,14 +6,16 @@ body{
 }
 
 h1{
-  margin: 0 auto 0 auto;
+  margin: 50px auto 0 auto;
   font-family: 'Dancing Script', cursive;
   font-size: 5.625em;
+  color: #64b2cd;
 }
 
 h2{
   margin: 0 auto 0 auto;
   font-family: 'EB Garamond', serif;
+  font-size: 2em;
 }
 
 h3{
@@ -21,6 +23,11 @@ h3{
   font-family: 'Domine', serif;
 }
 
+.awal{
+  color: #3c70a4;
+  margin: 30px auto 0 auto;
+  font-size: 2em;
+}
 
 .top-container{
   background-color: #d9eeec;
@@ -61,26 +68,65 @@ h3{
   border-radius: 100%;
 }
 
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.dip{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 50px;
+}
+.deep{
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+  margin-bottom: 50px;
+}
+.plc{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 50px;
+}
+.embedded{
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+  margin-bottom: 50px;
+}
+
+.ac-expe-row{
+  width: 50%;
+  margin: 20px auto 50px auto;
+  text-align: center;
+  line-height: 2;
+}
+
 .its{
-  margin-top: 40px;
+  margin-top: 1px;
 }
 
 .len{
-  margin-top: 40px;
+  margin-top: 1px;
 }
 
 .electra{
-  margin-top: 40px;
+  margin-top: 1px;
 }
 
 .b402{
-  margin-top: 40px;
+  margin-top: 1px;
   position: relative;
   left: 180px;
 }
 
 .travier{
-  margin-top: 40px;
+  margin-top: 20px;
   width:25%;
   height: 50%;
 }
